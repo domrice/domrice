@@ -1,13 +1,9 @@
 <h1 align="center">hi, i'm dom ✌️</h1>
 
 <p align="center">
-  software engineer · computational geometry, computer vision, robotics<br/>
-  i turn messy real-world data and constraints into automated workflows:<br/>
-  capture → algorithmic planning → robotic execution.
-</p>
-
-<p align="center">
-  currently exploring forward-deployed and computational engineering roles.<br/>
+  software engineer · computer vision, geometry, interfaces<br/>
+  i build systems that read messy data, decide what to do with it,<br/>
+  and turn that into instructions a machine or a person can act on.
 </p>
 
 <p align="center">
